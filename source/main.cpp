@@ -1,5 +1,6 @@
 /*
 MIT License
+SPDX-License-Identifier: MIT
 
 Copyright (c) 2020 Micro:bit Educational Foundation
 

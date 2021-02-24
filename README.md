@@ -3,11 +3,9 @@ Stand alone error program for micro:bit v1
 
 ## Build
 
-To build this software you must [install the yotta toolchain](https://docs.yottabuild.org/) from Arm mbed.
+This project is built using Yotta. Instructions for building using Yotta can be found [here](https://lancaster-university.github.io/microbit-docs/offline-toolchains/#yotta).
 
-Then from root folder, run
-
-`yotta build`
+*NOTE:* The `yotta target` is set in the `module.json` file, so that step can be skipped.
 
 The compiled hex file can then be found at `build/bbc-microbit-classic-gcc-nosd/source/stand-alone-error-v1.hex`
 
