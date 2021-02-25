@@ -1,8 +1,8 @@
 /*
 The MIT License (MIT)
+SPDX-License-Identifier: MIT
 
-Copyright (c) 2016 British Broadcasting Corporation.
-This software is provided by Lancaster University by arrangement with the BBC.
+Copyright (c) 2020 Micro:bit Educational Foundation
 
 Permission is hereby granted, free of charge, to any person obtaining a
 copy of this software and associated documentation files (the "Software"),
